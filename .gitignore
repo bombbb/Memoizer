@@ -1,0 +1,8 @@
+# maven target repo
+memoizer/target/
+
+# idea files
+memoizer/.idea/
+*.ipr
+*.iml
+*.iws
